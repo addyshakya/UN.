@@ -4,6 +4,11 @@
 }
 
 @font-face {
+    font-family: gilroy;
+    src: url(Gilroy-Regular.otf);
+}
+
+@font-face {
     font-family: mc;
     src: url(MC\ SAATCHI\ HEAVY.otf);
 }
